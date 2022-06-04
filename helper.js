@@ -1,6 +1,5 @@
   // the second to last answer - https://stackoverflow.com/questions/7558709/simple-javascript-search-url-for-string-do-something
 
-
  function handler( url, textToMatch, elementToChange, styleToAssign ){
 
       if (url.search(textToMatch) != -1){
