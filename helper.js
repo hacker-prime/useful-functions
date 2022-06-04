@@ -4,7 +4,6 @@
 
       if (url.search(textToMatch) != -1){
 
-
           // Referenced from profile.js in phoenixprime.io
           var path = location.pathname;
           console.log(path); // /bluedot-redesign/one/casestudies.php
